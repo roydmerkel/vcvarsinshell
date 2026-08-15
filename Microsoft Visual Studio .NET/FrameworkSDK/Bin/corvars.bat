@@ -1,0 +1,3 @@
+Set Path=C:\PROGRA~2\MICROS~1.NET\FRAMEW~1\Bin\;C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\;C:\PROGRA~2\MICROS~1.NET\Vc7\bin\;C:\PROGRA~2\MICROS~1.NET\Common7\IDE\;C:\WINDOWS\SysWOW64\;"%PATH%"
+Set LIB=C:\PROGRA~2\MICROS~1.NET\Vc7\lib\;"C:\Program Files (x86)\Microsoft Visual Studio .NET\FrameworkSDK\Lib\";%LIB%
+Set INCLUDE=C:\PROGRA~2\MICROS~1.NET\Vc7\include\;"C:\Program Files (x86)\Microsoft Visual Studio .NET\FrameworkSDK\include\";%INCLUDE%

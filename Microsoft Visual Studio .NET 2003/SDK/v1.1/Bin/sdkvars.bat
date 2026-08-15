@@ -1,0 +1,4 @@
+Set Path=c:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\Bin\;c:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\;c:\Program Files (x86)\Microsoft Visual Studio .NET 2003\Vc7\bin\;c:\Program Files (x86)\Microsoft Visual Studio .NET 2003\Common7\IDE\;%PATH%
+Set LIB=c:\Program Files (x86)\Microsoft Visual Studio .NET 2003\Vc7\lib\;"c:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\Lib\";%LIB%
+Set INCLUDE=c:\Program Files (x86)\Microsoft Visual Studio .NET 2003\Vc7\include\;"c:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\include\";%INCLUDE%
+Set NetSamplePath=c:\PROGRA~2\MICROS~2.NET\SDK\v1.1\
